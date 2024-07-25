@@ -3,3 +3,5 @@
 주제: Linear Regression, Logistic Regression, Softmax Regression & classification, CNN, RNN
 
 [유튜브 링크](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+
+[Note Url](http://paint-plastic-7c4.notion.site)
